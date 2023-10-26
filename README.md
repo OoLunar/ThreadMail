@@ -1,3 +1,2 @@
-# @RepositoryName
+# ThreadMail
 
-@RepositoryDescription
